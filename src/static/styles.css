@@ -84,6 +84,8 @@ section h3 {
 .activity-card ul li {
   margin-bottom: 5px;
   font-size: 14px;
+  color: #333; /* Ajuste de cor para melhor contraste */
+  font-style: italic; /* Adiciona estilo itálico para destacar */
 }
 
 .form-group {
