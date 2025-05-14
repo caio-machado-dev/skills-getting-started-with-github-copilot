@@ -78,16 +78,16 @@ section h3 {
   margin-top: 10px;
   padding-left: 20px;
   list-style-type: disc;
-  color: #444; /* Ajuste de cor para melhor contraste */
-  font-size: 15px; /* Ajuste de tamanho da fonte */
+  color: #333; /* Cor ajustada para melhor contraste */
+  font-size: 14px; /* Tamanho da fonte ajustado */
+  line-height: 1.5; /* Melhor espaçamento entre linhas */
 }
 
 .activity-card ul li {
-  margin-bottom: 8px; /* Maior espaçamento entre itens */
-  font-size: 14px;
-  color: #555; /* Cor mais suave */
-  font-style: italic; /* Destaque adicional */
-  line-height: 1.4; /* Melhor espaçamento entre linhas */
+  margin-bottom: 6px; /* Espaçamento entre itens */
+  font-weight: 500; /* Peso da fonte ajustado para destaque */
+  color: #444; /* Cor mais suave */
+  font-style: normal; /* Removido itálico para consistência */
 }
 
 .form-group {
